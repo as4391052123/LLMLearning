@@ -6,3 +6,8 @@ langchain_chroma
 beautifulsoup4~=4.12.3
 langchain-community~=0.3.11
 langchain-text-splitters~=0.3.2
+chromadb~=0.5.23
+typing_extensions~=4.12.2
+langgraph~=0.2.58
+ipython~=8.30.0
+pillow~=11.0.0
